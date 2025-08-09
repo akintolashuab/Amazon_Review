@@ -1,0 +1,18 @@
+click @ file:///D:/bld/click_1747811308011/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1748019130050/work
+nltk @ file:///home/conda/feedstock_root/build_artifacts/nltk_1734309924703/work
+numpy @ file:///D:/bld/bld/rattler-build_numpy_1753401558/work/dist/numpy-2.3.2-cp313-cp313-win_amd64.whl#sha256=2849ac570610ca99451d85ae850479e1d2a10fffdc8a92b1e1c172cca0f6f83b
+pandas @ file:///D:/bld/pandas_1752081728114/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dateutil_1751104122/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1742920838005/work
+regex @ file:///D:/bld/regex_1730952211836/work
+scikit-learn @ file:///D:/bld/scikit-learn_1753180015919/work/dist/scikit_learn-1.7.1-cp313-cp313-win_amd64.whl#sha256=1b0dc52e4d585f34c592d9ff90ceb3cf5ca90ac14b2bf8d67ea9675884ddc10f
+scipy @ file:///C:/bld/scipy-split_1751236112407/work/dist/scipy-1.16.0-cp313-cp313-win_amd64.whl#sha256=b7361dc75113834c689165d3d845f315ea449ab4c4cea0e445e41e5ddcddcd59
+setuptools==78.1.1
+six @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_six_1753199211/work
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1741878222898/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1735661334605/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1742745135198/work
+wheel==0.45.1
+xgboost @ file:///Users/runner/miniforge3/conda-bld/xgboost-split_1748292871873/work/python-package
